@@ -1,5 +1,8 @@
 ## The code will be avaible after the publication is accepted 
 
+
+### Updated version : https://github.com/GPrathap/trajectory-tracker
+
 # Trajectory-Tracker 
 
 __Authors__: Geesara Kulathunga, Dmitry Devitt, Roman Fedorenko and Alexandr Klimchik
